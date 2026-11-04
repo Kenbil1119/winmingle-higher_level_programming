@@ -1,7 +1,7 @@
 # 0X01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS
 
 Table of Contents
-- [Overview][overview]
+- [Overview][#-overview]
 - [Files][files]
 - [How To][how-to]
 - [About Author][about-author]
