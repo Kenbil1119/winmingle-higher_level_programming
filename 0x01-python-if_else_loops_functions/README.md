@@ -1,4 +1,13 @@
 # 0X01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS
+
+Table of Contents
+- [Overview][overview]
+- [Files][files]
+- [How To][how-to]
+- [About Author][about-author]
+
+## Overview
+
 This directory contains __Python__, __C__, and **Bash** script codes, demostrating:
 - Why indentation is so important in Python when using
 __control flow statements__ (Conditional statements): `if`, `elif`, and `else` and (Iteration statememts): `while` and `for`
@@ -21,7 +30,7 @@ __control flow statements__ (Conditional statements): `if`, `elif`, and `else` a
 
 Below are the files to find in this directory
 
-### File
+## Files
 [0-posituve_or_negative.py](https://github.com/Kenbil1119/wmg-higher_level_programming/tree/main/0x01-python-if_else_loops_functions/0-positive_or_negative.py)
 <details>
     <summary>Learn More</summary>
@@ -55,6 +64,8 @@ Print number from 0 - 99 in two fields (00) separated with ', '.
 > [!NOTE]
 > This directory contains Python code and Bash script files that print to the stdout, not a complete program_,  and some of this file migth need an environment variable to work. Example PYFILE & PYCODE
 
+## How To
+
 > [!TIP]
 > Use command below to run code
 ```bash
@@ -64,4 +75,7 @@ Print number from 0 - 99 in two fields (00) separated with ', '.
 > No file or program in this directory causes any changes to the working machine or environment. All files were tested and executed.
 > This directory is not created for plagiarism or cheating conduction, only meant for educational purpose
 ---
-Author: [Usman Saheed (kenbil)](https://www.github.com/kenbil1119)
+
+## About Author
+
+[Usman Saheed (kenbil)][https://www.github.com/kenbil1119]
