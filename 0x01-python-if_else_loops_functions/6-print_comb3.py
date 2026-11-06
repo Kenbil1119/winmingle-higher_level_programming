@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 for num1 in range(0, 10): # one digit range 0...9
     for num2 in range(num1, 10):
         if num1 == num2:
