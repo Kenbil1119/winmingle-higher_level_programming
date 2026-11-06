@@ -1,5 +1,11 @@
 #!/usr/bin/python3
+
+
 def uppercase(s):
+    """
+    This module contains a function that converts a string to uppercase.
+    """
+
     uppercase = ""
     for c in s:
         # Check if it is lowercase character
