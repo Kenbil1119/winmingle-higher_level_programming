@@ -3,7 +3,7 @@ for num1 in range(0, 10): # one digit range 0...9
     for num2 in range(num1, 10):
         if num1 == num2:
             continue
-        if num1 + 1 == 10 - 1 & num2 == 10 - 1:
-            print(num1, num2)
+        if num1 + 1 == 10 - 1 and num2 == 10 - 1:
+            print(f"{num1}{num2}")
         else:
             print(f"{num1}{num2}", end=', ')
